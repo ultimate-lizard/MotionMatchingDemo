@@ -1,0 +1,13 @@
+/Saved
+/Intermediate
+/DerivedDataCache
+/Binaries
+/Build
+/Builds
+.vs
+.vsconfig
+/*.sln
+/.idea
+
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
